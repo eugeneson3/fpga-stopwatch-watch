@@ -1,0 +1,95 @@
+{
+  "snapshot_date": "2026-11-18",
+  "files": [
+    {
+      "path": "src/btn_debounce.v",
+      "source": "Sources/projects/stopwatch_watch_revised/src/btn_debounce.v",
+      "sha256": "268db106dba84b1bc314f9cb56c7fc8230931dd49fd901ef150a504d8453a838"
+    },
+    {
+      "path": "src/control_unit.v",
+      "source": "Sources/projects/stopwatch_watch_revised/src/control_unit.v",
+      "sha256": "9539ceef4ac29e0e0087daf2116918dcfd243270212e01b875b6bbdb6ab61bd4"
+    },
+    {
+      "path": "src/demux_1x2.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/demux_1x2.v",
+      "sha256": "abbe8cef88e5a9d61d73d0f8232edebd2b0796e9de106da0cf86e5bf5a4c53ad"
+    },
+    {
+      "path": "src/fnd_controller.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/fnd_controller.v",
+      "sha256": "d6626fe562ad506fd442b9b56dfc27fb8261dbeaac38480ac743e7ec96886ceb"
+    },
+    {
+      "path": "src/stopwatch.v",
+      "source": "Sources/projects/stopwatch_watch_revised/src/stopwatch.v",
+      "sha256": "debfafae13ac8195af1d81b74f2143e488c23ceb5124e97c829d5b802e0c7fd0"
+    },
+    {
+      "path": "src/watch.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/watch.v",
+      "sha256": "eb142efb01ad88394e0c865bf0d91feef39d584390955111aabf558f3a369ebb"
+    },
+    {
+      "path": "src/top_watch_stopwatch.v",
+      "source": "Sources/projects/stopwatch_watch_revised/src/top_watch_stopwatch.v",
+      "sha256": "a74f648a2dd3886bbd9fb9feb0c7903a7a162e8a280852e39bd0aae27a52d3b5"
+    },
+    {
+      "path": "sim/testbench.v",
+      "source": "sim/testbench.v",
+      "sha256": "5066d453865ea3572be79d8945cad1d839cdbcd04fd3fa3fcdf29482e9bda18f"
+    },
+    {
+      "path": "archive/2026-07/src/btn_debounce.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/btn_debounce.v",
+      "sha256": "89cbbaa800378871d66f9b036149ba73e8582dc7b222002a307216548baf0509"
+    },
+    {
+      "path": "archive/2026-07/src/control_unit.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/control_unit.v",
+      "sha256": "37edf50593e7e2ebcbed48ca76138035ce35fcd2cccae5f1d49b5f97d256fb9e"
+    },
+    {
+      "path": "archive/2026-07/src/demux_1x2.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/demux_1x2.v",
+      "sha256": "abbe8cef88e5a9d61d73d0f8232edebd2b0796e9de106da0cf86e5bf5a4c53ad"
+    },
+    {
+      "path": "archive/2026-07/src/fnd_controller.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/fnd_controller.v",
+      "sha256": "d6626fe562ad506fd442b9b56dfc27fb8261dbeaac38480ac743e7ec96886ceb"
+    },
+    {
+      "path": "archive/2026-07/src/stopwatch.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/stopwatch.v",
+      "sha256": "b5b7eec16fa2d4416fb8c43e836720cb9358218845dd48ed4918c44c91dce94a"
+    },
+    {
+      "path": "archive/2026-07/src/watch.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/watch.v",
+      "sha256": "eb142efb01ad88394e0c865bf0d91feef39d584390955111aabf558f3a369ebb"
+    },
+    {
+      "path": "archive/2026-07/src/top_watch_stopwatch.v",
+      "source": "Sources/projects/stopwatch_watch_basic/src/top_watch_stopwatch.v",
+      "sha256": "459b1681345ccfebe006fbe7414a4f18b50735171e4a44561d9d8b35a9550184"
+    },
+    {
+      "path": "archive/2026-07/sim/testbench.v",
+      "source": "sim/testbench.v",
+      "sha256": "4126aa06f1087ee11e3ce57836914aa700a6f50f5462a5da8019c862dd11cd1b"
+    },
+    {
+      "path": "archive/2026-07/constraints/constraint_TeamPJ.xdc",
+      "source": "constraints/constraint_TeamPJ.xdc",
+      "sha256": "56851e754df454d1245cddfe3263d6ae074c2c83069225aadb23a12827d9cf5e"
+    },
+    {
+      "path": "constraints/Basys-3-Master.xdc",
+      "source": "constraints/Basys-3-Master.xdc",
+      "sha256": "ce50cb375e51e4bccbaaf1dad578b8d19d7e3dd435263d434e1bc749959a8d48"
+    }
+  ]
+}
